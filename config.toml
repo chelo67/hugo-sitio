@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'es'
+title = 'primer sitio'
+theme = 'tale'
+
+[[menu.main]]
+	identifier = "contact"
+	name = "Contact"
+	title = "Contact"
+	url = "/contact/"
+	weight = 0
+  [[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	title = "Posts"
+	url = "/posts/"
+	weight = 0
