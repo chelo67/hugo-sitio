@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>primer sitio</title>
-    <link>http://example.org/</link>
+    <link>https://chelo67.github.io/hugo-sitio/</link>
     <description>Recent content on primer sitio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 16 Dec 2021 19:18:36 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Dec 2021 19:18:36 +0000</lastBuildDate><atom:link href="https://chelo67.github.io/hugo-sitio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Segundo Post</title>
-      <link>http://example.org/posts/segundo-post/</link>
+      <link>https://chelo67.github.io/hugo-sitio/posts/segundo-post/</link>
       <pubDate>Thu, 16 Dec 2021 19:18:36 +0000</pubDate>
       
-      <guid>http://example.org/posts/segundo-post/</guid>
+      <guid>https://chelo67.github.io/hugo-sitio/posts/segundo-post/</guid>
       <description>Segundo post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae dolor neque. Mauris vitae elit ut justo tincidunt cursus et ac orci. Proin sit amet sagittis massa, eu blandit ex. Mauris vitae porttitor felis. Duis dictum iaculis commodo. Donec ligula dui, bibendum sit amet tellus tempor, blandit hendrerit turpis. Morbi tempus mi sed nisl fermentum porta. Pellentesque porta nisl neque, non maximus purus tempor vitae. Vivamus sit amet orci aliquam, molestie nulla sed, interdum justo.</description>
     </item>
     
     <item>
       <title>Primer Post</title>
-      <link>http://example.org/posts/primer-post/</link>
+      <link>https://chelo67.github.io/hugo-sitio/posts/primer-post/</link>
       <pubDate>Thu, 16 Dec 2021 19:18:22 +0000</pubDate>
       
-      <guid>http://example.org/posts/primer-post/</guid>
+      <guid>https://chelo67.github.io/hugo-sitio/posts/primer-post/</guid>
       <description>Este es mi primer post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae dolor neque. Mauris vitae elit ut justo tincidunt cursus et ac orci. Proin sit amet sagittis massa, eu blandit ex. Mauris vitae porttitor felis. Duis dictum iaculis commodo. Donec ligula dui, bibendum sit amet tellus tempor, blandit hendrerit turpis. Morbi tempus mi sed nisl fermentum porta. Pellentesque porta nisl neque, non maximus purus tempor vitae. Vivamus sit amet orci aliquam, molestie nulla sed, interdum justo.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/contact/</link>
+      <link>https://chelo67.github.io/hugo-sitio/contact/</link>
       <pubDate>Thu, 16 Dec 2021 19:16:10 +0000</pubDate>
       
-      <guid>http://example.org/contact/</guid>
+      <guid>https://chelo67.github.io/hugo-sitio/contact/</guid>
       <description>Esta es la pagina de contacto mi primera pagina  rapida eficaz  </description>
     </item>
     
